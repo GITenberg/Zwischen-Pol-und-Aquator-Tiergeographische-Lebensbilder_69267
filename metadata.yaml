@@ -1,0 +1,36 @@
+_repo: Zwischen-Pol-und-Aquator-Tiergeographische-Lebensbilder_69267
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Oeffinger, Rud.
+    gutenberg_agent_id: '55189'
+    url: http://www.gutenberg.org/2009/agents/55189
+creator:
+  author:
+    agent_name: Floericke, Kurt
+    aliases:
+    - Floericke, Curt
+    - Floericke, K. (Kurt)
+    - Floericke, Kurt Ehrenreich
+    birthdate: 1869
+    deathdate: 1934
+    gutenberg_agent_id: '40213'
+    url: http://www.gutenberg.org/2009/agents/40213
+    wikipedia: http://de.wikipedia.org/wiki/Kurt_Floericke
+description: ''
+gutenberg_issued: '2022-10-30'
+identifiers:
+  gutenberg: '69267'
+language: de
+pgterms:marc905: 20220813080210floericke
+pgterms:marc906: '1926'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: 'Germany: Kosmos / Franckh''sche Verlagshandlung,1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Zwischen Pol und Äquator: Tiergeographische Lebensbilder'
+url: http://www.gutenberg.org/ebooks/69267
