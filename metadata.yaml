@@ -5,6 +5,9 @@ contributor:
     agent_name: Oeffinger, Rud.
     gutenberg_agent_id: '55189'
     url: http://www.gutenberg.org/2009/agents/55189
+covers:
+- cover_type: archival
+  image_path: 69267-h/images/cover.jpg
 creator:
   author:
     agent_name: Floericke, Kurt
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40213
     wikipedia: http://de.wikipedia.org/wiki/Kurt_Floericke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69267#Zwischen-Pol-und-Aquator-Tiergeographische-Lebensbilder
 gutenberg_issued: '2022-10-30'
 identifiers:
   gutenberg: '69267'
